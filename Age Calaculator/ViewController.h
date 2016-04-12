@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SetBirthdateViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <SendBirthdateBack>
 
 
 @end

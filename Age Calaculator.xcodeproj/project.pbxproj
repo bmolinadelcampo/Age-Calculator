@@ -13,6 +13,7 @@
 		97ED06ED1CBD97C7006919B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97ED06EB1CBD97C7006919B1 /* Main.storyboard */; };
 		97ED06EF1CBD97C7006919B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97ED06EE1CBD97C7006919B1 /* Assets.xcassets */; };
 		97ED06F21CBD97C7006919B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97ED06F01CBD97C7006919B1 /* LaunchScreen.storyboard */; };
+		97ED06FB1CBD9A71006919B1 /* SetBirthdateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97ED06FA1CBD9A71006919B1 /* SetBirthdateViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		97ED06EE1CBD97C7006919B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97ED06F11CBD97C7006919B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97ED06F31CBD97C7006919B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97ED06F91CBD9A71006919B1 /* SetBirthdateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetBirthdateViewController.h; sourceTree = "<group>"; };
+		97ED06FA1CBD9A71006919B1 /* SetBirthdateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetBirthdateViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				97ED06E61CBD97C6006919B1 /* AppDelegate.m */,
 				97ED06E81CBD97C6006919B1 /* ViewController.h */,
 				97ED06E91CBD97C7006919B1 /* ViewController.m */,
+				97ED06F91CBD9A71006919B1 /* SetBirthdateViewController.h */,
+				97ED06FA1CBD9A71006919B1 /* SetBirthdateViewController.m */,
 				97ED06EB1CBD97C7006919B1 /* Main.storyboard */,
 				97ED06EE1CBD97C7006919B1 /* Assets.xcassets */,
 				97ED06F01CBD97C7006919B1 /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97ED06EA1CBD97C7006919B1 /* ViewController.m in Sources */,
+				97ED06FB1CBD9A71006919B1 /* SetBirthdateViewController.m in Sources */,
 				97ED06E71CBD97C6006919B1 /* AppDelegate.m in Sources */,
 				97ED06E41CBD97C6006919B1 /* main.m in Sources */,
 			);
